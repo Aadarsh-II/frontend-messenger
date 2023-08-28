@@ -1,0 +1,20 @@
+/* GetStarted.css */
+
+.get_started {
+    background-color: #f7f7f7;
+  }
+  
+  .btn-primary {
+    background-color: rgb(165, 100, 222);
+    padding : 2px 10px 2px 10px;
+    margin: 5px 5px 5px 5px;
+    border: none;
+    height : 6vh;
+    width: 15vh;
+    color: white;
+  }
+  
+  .get_started{
+    border: none;
+    max-width: 70vh;
+  }
