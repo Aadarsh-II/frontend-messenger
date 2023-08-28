@@ -24,11 +24,9 @@ class GetStarted extends Component {
                         </b>
                     </h1>
                     <hr />
-                    <Link to="/login">
                     <button className="button btn btn-primary mr-5 custom-button" >
                        Login
                     </button>
-                    </Link>
                     <button className="btn btn-primary ml-5  custom-button">
                         Register
                     </button>
